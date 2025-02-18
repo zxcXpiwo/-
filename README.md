@@ -1,5 +1,7 @@
 
-Здравствуй я Пиво
+[photo_2025-02-18_14-34-38](https://github.com/user-attachments/assets/015d6ab1-3874-4650-82bd-2a96f023eec3)
+
+Здравствуй я Пиво!
 
 1. Имя:
 
