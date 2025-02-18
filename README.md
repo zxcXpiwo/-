@@ -1,5 +1,5 @@
 
-<img src="https://your-repo-url/images/avrorasmp.jpg" alt="AVRORA SMP">
+<img src="photo_2025-02-18_14-34-38.jpg" alt="AVRORA SMP">
 
 Здравствуй я Пиво!
 
