@@ -1,5 +1,5 @@
 
-<img src="file:///C:/Users/Администратор/Downloads/photo_2025-02-18_14-34-38.jpg" alt="AVRORA SMP">
+<img src="https://nklk.ru/dll_image/1712.png" alt="LOP">
 
 Здравствуй я Пиво!
 
