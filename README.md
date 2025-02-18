@@ -1,5 +1,5 @@
 
-[photo_2025-02-18_14-34-38](https://github.com/user-attachments/assets/015d6ab1-3874-4650-82bd-2a96f023eec3)
+<img src="https://your-repo-url/images/avrorasmp.jpg" alt="AVRORA SMP">
 
 Здравствуй я Пиво!
 
